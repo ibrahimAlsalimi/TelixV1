@@ -450,15 +450,4 @@ The built files will be in `Dashborad/dist/`. Serve them with a web server like 
 
 Create systemd service files to run the backend services automatically on boot.
 
-## License
-
-[Specify your license here]
-
-## Contributing
-
-[Contribution guidelines if applicable]
-
-## Support
-
-For issues and questions, please open an issue on the project repository.
 
